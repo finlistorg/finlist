@@ -84,6 +84,6 @@ A curated collection of free resources designed to help individual investors mak
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Contribute
-Know a great free finance resource? Create a Pull Request or [drop me an email](mailto:contact@finlist.org)!
+Know a great free finance resource? Create a [Pull Request](https://github.com/finlistorg/finlist/pulls) or [drop me an email](mailto:contact@finlist.org)!
 
 **[⬆️ Back to Top](#table-of-contents)**
