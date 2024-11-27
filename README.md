@@ -28,6 +28,7 @@ A curated collection of free resources designed to help individual investors mak
 - **[SEC](https://www.sec.gov/)**: Official website of the U.S. Securities and Exchange Commission (SEC), providing access to regulatory filings, investor resources, and information about market oversight and enforcement actions.  
 - **[Investing](https://www.investing.com/)**: is a comprehensive financial platform offering real-time market data, news, technical analysis, and tools for tracking stocks, commodities, currencies, cryptocurrencies, and other financial instruments worldwide.
 - **[Finra](https://www.finra.org/)**: The official website of the Financial Industry Regulatory Authority (FINRA), providing tools, resources, and regulatory information to protect investors and ensure the integrity of the U.S. securities industry.
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Educational Content
@@ -83,6 +84,6 @@ A curated collection of free resources designed to help individual investors mak
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Contribute
-Know a great free finance resource? [Let me know](mailto:contact@finlist.org)!
+Know a great free finance resource? Create a Pull Request or [drop me an email](mailto:contact@finlist.org)!
 
 **[⬆️ Back to Top](#table-of-contents)**
