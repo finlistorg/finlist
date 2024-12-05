@@ -22,12 +22,14 @@ A curated collection of free resources designed to help individual investors mak
 - **[Yahoo Finance](https://finance.yahoo.com/)**: Comprehensive stock market data, charts, and financial news.
 - **[Finviz](https://finviz.com/)**: A free stock screener and visualization tool for market trends.
 - **[OpenInsider](http://openinsider.com/)**: OpenInsider is a platform that tracks and analyzes insider trading activities from SEC filings to provide insights for investors.
+- **[Insider Tracking](https://www.insidertracking.com/)**: is a platform that monitors insider trading in North American markets, offering real-time alerts, weekly reports, and tools to analyze corporate insider activity for investment insights​
 - **[StockCharts](https://stockcharts.com)**: StockCharts is a financial charting platform that provides advanced tools for analyzing stocks, ETFs, and other assets through customizable charts, technical indicators, and market data.
 - **[TradingView](https://www.tradingview.com/)**: TradingView is a web-based platform offering advanced charting tools, technical analysis, and social networking for traders and investors, covering stocks, cryptocurrencies, forex, and other financial markets.
 - **[WhaleWisdom](https://whalewisdom.com/)**: Tracks hedge fund and institutional investment activities by analyzing SEC filings, such as 13F reports, to provide insights into the portfolios and strategies of major investors.
 - **[SEC](https://www.sec.gov/)**: Official website of the U.S. Securities and Exchange Commission (SEC), providing access to regulatory filings, investor resources, and information about market oversight and enforcement actions.  
 - **[Investing](https://www.investing.com/)**: is a comprehensive financial platform offering real-time market data, news, technical analysis, and tools for tracking stocks, commodities, currencies, cryptocurrencies, and other financial instruments worldwide.
 - **[Finra](https://www.finra.org/)**: The official website of the Financial Industry Regulatory Authority (FINRA), providing tools, resources, and regulatory information to protect investors and ensure the integrity of the U.S. securities industry.
+- **[Roic AI](https://www.roic.ai/)**: is a financial analytics platform that provides detailed company data, including 30+ years of financials and key metrics like ROIC, to help investors analyze performance and make informed decisions
 
 **[⬆️ Back to Top](#table-of-contents)**
 
