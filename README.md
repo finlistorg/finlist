@@ -59,6 +59,7 @@ A curated collection of free resources designed to help individual investors mak
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Podcasts and Videos
+- **[Rational Investing with Cameron Stewart, CFA](https://www.youtube.com/@CstewartCFA)**: a YouTube channel focused on providing insightful and analytical content about investing. Hosted by Cameron Stewart, a Chartered Financial Analyst (CFA), the channel delves into various aspects of investing with a rational, data-driven approach. Viewers can expect in-depth discussions on valuation techniques, market trends, financial analysis, and investment strategies. Cameron's expertise and clear, methodical presentation style make the channel a valuable resource for both novice and experienced investors seeking to enhance their understanding of the financial markets.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -71,6 +72,7 @@ A curated collection of free resources designed to help individual investors mak
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Community
+- **[r/investing](https://www.reddit.com/r/investing/)**: Subreddit dedicated to discussions about investing in capital markets. While it acknowledges that investments can encompass a range of asset types, the community is known for upholding high posting standards, given its specialized focus. It offers an open forum for discussion, where members are encouraged to engage in mature, respectful debates.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
